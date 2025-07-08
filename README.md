@@ -13,8 +13,8 @@ I'm passionate about learning and growing—both culturally and technically—an
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [denevi.irene@gmail.com](mailto:denevi.irene@gmail.com)
 * 🚀  I'm currently working on [AVIO - Digital Twin for Bergamo Airport](http://www.txtgroup.com/passion-for-innovation/avio)
-* 🧠  I'm learning AWS for ML workflow and Promp Engineering.
-* 🤝  I'm open to collaborating on International innovation projects to expand my skills and cultural experience
+* 🧠  I'm learning AWS to achieve Cloud Pratictioner Certification and AWS Solutions Architect Associate Certification.
+* 🤝  I'm open to collaborating on International innovation projects to expand my skills and cultural experience.
 * ⚡  It speaks Genoese ⚓🚢🌊, but it does not compile.
 
 ### Skills
