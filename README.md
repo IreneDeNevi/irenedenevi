@@ -1,21 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Irene De Nevi
-=====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Irene De Nevi
+================================================================================
 
-Data Science and AI Engineer
-----------------------------
+## Data Science and AI Engineer
 
 I'm a Data Science Engineer with two years of experience in data engineering and analysis, having worked in both Milan, Italy and Grenoble, France. My background includes designing robust data pipelines and delivering insights through data-driven solutions.
 
-Currently, I'm working on backend development, AI integration, and have actively contributed to the architectural design of the Digital Twin of Bergamo Airport, supporting the digital transformation of the aviation sector.
+Currently, I'm working on backend development, AI integration, and I have actively contributed to the architectural design of the Digital Twin for Bergamo Airport, supporting the digital transformation of the aviation sector.
 
 I'm passionate about learning and growing—both culturally and technically—and always open to new experiences and collaborations that challenge me and expand my perspective in the tech world.
 
 * 🌍  Based in Milan  
 * ✉️  Contact me at [denevi.irene@gmail.com](mailto:denevi.irene@gmail.com)  
 * 🚀  Currently working on [AVIO - Digital Twin for Bergamo Airport](http://www.txtgroup.com/passion-for-innovation/avio)  
-* 🧠  Learning AWS to achieve Cloud Practitioner, Solutions Architect Associate, and Data Architect Certifications  
+* 🧠  Studying Databricks and PySpark; pursuing **AWS Certified Cloud Practitioner** and **AWS Certified Solutions Architect – Associate**  
 * 🤝  Open to collaborating on international innovation projects to broaden my skills and cultural experience  
-* ⚡  Speaks Genoese ⚓🚢🌊, but does not compile.  
+* ⚡  I speak Genoese ⚓🚢🌊, but it doesn't compile.
 
 ---
 
@@ -34,7 +33,7 @@ I'm passionate about learning and growing—both culturally and technically—an
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" title="FastAPI"/></a>
-<a href="https://zeromq.org/" target="_blank"><img src="https://img.shields.io/badge/ZeroMQ-red?logo=zeromq&logoColor=white" height="36" alt="ZeroMQ" title="ZeroMQ"/></a>
+<a href="https://zeromq.org/" target="_blank"><img src="https://img.shields.io/badge/ZeroMQ-0095D5?logo=zeromq&logoColor=white" height="36" alt="ZeroMQ" title="ZeroMQ"/></a>
 
 <!-- Databases -->
 <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle"/></a>
@@ -45,7 +44,7 @@ I'm passionate about learning and growing—both culturally and technically—an
 <!-- AI & ML -->
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a>
-<a href="https://huggingface.co/transformers/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-ffd21e?logo=huggingface&logoColor=black" height="36" alt="Hugging Face" title="Hugging Face Transformers"/></a>
+<a href="https://huggingface.co/transformers/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" height="36" alt="Hugging Face" title="Hugging Face Transformers"/></a>
 
 <!-- Cloud & DevOps -->
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS"/></a>
@@ -62,9 +61,8 @@ I'm passionate about learning and growing—both culturally and technically—an
 <p align="left">
 <a href="https://www.databricks.com/" target="_blank"><img src="https://seeklogo.com/images/D/databricks-logo-0B113F6F6A-seeklogo.com.png" width="36" height="36" alt="Databricks" title="Databricks"/></a>
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="36" height="36" alt="PySpark" title="PySpark"/></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Cloud-Practitioner_badge.2d39d0d0602b6cf0729f08cbf43d0d8b7a0a4f73.png" width="36" height="36" alt="AWS Cloud Practitioner" title="AWS Cloud Practitioner"/></a>
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect-Associate_badge.2b1c40a1e9f0858b3c50c84d88f56e02f3edbb2a.png" width="36" height="36" alt="AWS Solutions Architect Associate" title="AWS Solutions Architect Associate"/></a>
-<a href="https://aws.amazon.com/certification/" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Database-Specialty_badge.f1e6d88e2c8a7462e65a8c10e5d6bcd65b7f1d63.png" width="36" height="36" alt="AWS Data Architect" title="AWS Data Architect"/></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Cloud-Practitioner_badge.2d39d0d0602b6cf0729f08cbf43d0d8b7a0a4f73.png" width="36" height="36" alt="AWS Cloud Practitioner" title="AWS Certified Cloud Practitioner"/></a>
+<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified_Solutions-Architect-Associate_badge.2b1c40a1e9f0858b3c50c84d88f56e02f3edbb2a.png" width="36" height="36" alt="AWS Solutions Architect Associate" title="AWS Certified Solutions Architect – Associate"/></a>
 </p>
 
 ---
@@ -80,10 +78,29 @@ I'm passionate about learning and growing—both culturally and technically—an
 
 ### Badges
 
-<b>My GitHub Stats</b>  
+**My GitHub Stats**  
 
-<a href="http://www.github.com/IreneDeNevi"><img src="https://github-readme-stats.vercel.app/api?username=IreneDeNevi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IreneDeNevi's GitHub stats" /></a>  
+<a href="https://github.com/IreneDeNevi">
+  <img src="https://github-readme-stats.vercel.app/api?username=IreneDeNevi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="IreneDeNevi's GitHub stats" />
+</a>  
 
-<a href="http://www.github.com/IreneDeNevi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IreneDeNevi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
+<a href="https://github.com/IreneDeNevi">
+  <img src="https://streak-stats.demolab.com?user=IreneDeNevi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</a>  
 
-<a href="https://github.com/IreneDeNevi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneDeNevi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
+<a href="https://github.com/IreneDeNevi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneDeNevi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+<a href="https://github.com/IreneDeNevi?tab=followers">
+  <img src="https://img.shields.io/github/followers/IreneDeNevi?color=0891b2&label=Followers&style=flat&logo=github&logoColor=ffffff" alt="Followers Badge" />
+</a>
+
+<a href="https://github.com/IreneDeNevi?tab=repositories">
+  <img src="https://img.shields.io/github/repo-size/IreneDeNevi?color=0891b2&label=Repo%20Size&style=flat&logo=github&logoColor=ffffff" alt="Repo Size Badge" />
+</a>
+
+<a href="https://github.com/IreneDeNevi?tab=activity">
+  <img src="https://img.shields.io/github/commit-activity/m/IreneDeNevi?color=0891b2&label=Commit%20Activity&style=flat&logo=git&logoColor=ffffff" alt="Commit Activity Badge" />
+</a>
+
