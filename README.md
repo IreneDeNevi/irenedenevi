@@ -11,7 +11,7 @@ I'm passionate about learning and growing—both culturally and technically—an
 * 🌍  Based in Milan  
 * ✉️  Contact me at [denevi.irene@gmail.com](mailto:denevi.irene@gmail.com)  
 * 🚀  Currently working on [AVIO - Digital Twin for Bergamo Airport](http://www.txtgroup.com/passion-for-innovation/avio)  
-* 🧠  Studying Databricks and PySpark; pursuing **AWS Certified Cloud Practitioner** and **AWS Certified Solutions Architect – Associate**  
+* 🧠  Studying Apache Spark, Hadoop Ecosystem.
 * 🤝  Open to collaborating on international innovation projects to broaden my skills and cultural experience  
 * ⚡  I speak Genoese ⚓🚢🌊, but it doesn't compile.
 
@@ -68,13 +68,13 @@ I'm passionate about learning and growing—both culturally and technically—an
 
 ### 🛩️ AVIO - Digital Twin for Bergamo Airport
 **Role:** AI Engineer & Backend Developer  
-**Technologies:** Python, FastAPI, AI/ML, Digital Twin Architecture  
+**Technologies:** Python, C++, FastAPI, Docker, Websockets, Apache Airflow, SQL, NOSQL, AI/ML, Digital Twin Architecture  
 **Description:** Contributing to the architectural design and development of a digital twin solution for Bergamo Airport, supporting digital transformation in the aviation sector.  
 [🔗 Learn More](http://www.txtgroup.com/passion-for-innovation/avio)
 
 ### 📊 Data Pipeline Projects
 **Focus:** Robust data engineering solutions  
-**Technologies:** Python, PySpark, SQL, Cloud Services  
+**Technologies:** Python, SQL, Cloud Services, PowerBI  
 **Experience:** Two years designing and implementing data pipelines across Milan and Grenoble, delivering insights through data-driven solutions.
 
 ### 🤖 AI Integration Projects
@@ -86,15 +86,16 @@ I'm passionate about learning and growing—both culturally and technically—an
 
 ## 📚 Currently Learning
 
-<p align="left">
-<a href="https://www.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" height="36" alt="Databricks" title="Databricks"/></a>
-<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white" height="36" alt="PySpark" title="PySpark"/></a>
-<a href="https://aws.amazon.com/certification/" target="_blank"><img src="https://img.shields.io/badge/AWS_Certifications-232F3E?logo=amazon-aws&logoColor=white" height="36" alt="AWS Certifications" title="AWS Cloud Practitioner & Solutions Architect Associate"/></a>
-</p>
+I'm currently studying the following technologies:
 
-**Current Certifications in Progress:**
-- 🏅 AWS Certified Cloud Practitioner
-- 🏅 AWS Certified Solutions Architect – Associate
+- **Hadoop Ecosystem**
+- **Apache Spark**
+- **Cloudera**
+
+### Tech Badges:
+![Hadoop](https://img.shields.io/badge/-Hadoop-66cc33?style=for-the-badge&logo=apache-hadoop&logoColor=fff)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=fff)
+![Cloudera](https://img.shields.io/badge/-Cloudera-EF3D4C?style=for-the-badge&logo=cloudera&logoColor=fff)
 
 ---
 
