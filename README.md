@@ -13,7 +13,7 @@ I’m passionate about continuous learning, modern big data platforms, and **age
 
 - 🌍 Based in **Milan, Italy**
 - 🏢 **Big Data & AI Engineer at Capgemini**
-- 🚀 Project: [AVIO – Digital Twin for Bergamo Airport](http://www.txtgroup.com/passion-for-innovation/avio)
+- 🚀 Project in production: [AVIO – Digital Twin for Bergamo Airport](http://www.txtgroup.com/passion-for-innovation/avio)
 - ⚡ I speak Genoese ⚓🚢🌊 — but it still doesn't compile
 
 ---
@@ -21,13 +21,14 @@ I’m passionate about continuous learning, modern big data platforms, and **age
 ## 🛠️ Technical Skills
 
 ### 🧑‍💻 Programming Languages
-- **Python**, **R**, **C++**, **Bash**, **Scala**
+- **Python**, **R**, **C++**, **Bash**, **Java**, **Scala**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="36" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" height="36" style="margin-right:10px;"/>
 </p>
 
