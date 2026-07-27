@@ -21,11 +21,10 @@ I’m passionate about continuous learning, modern big data platforms, and **age
 ## 🛠️ Technical Skills
 
 ### 🧑‍💻 Programming Languages
-- **Python**, **R**, **C++**, **Bash**, **Java**, **Scala**
+- **Python**, **C++**, **Bash**, **Java**, **Scala**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="36" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="36" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="36" style="margin-right:10px;"/>
